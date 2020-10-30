@@ -1,6 +1,7 @@
 html, body {
   margin: 0;
   padding: 0;
+  color: #34495E;
 }
 
 body {
@@ -29,10 +30,6 @@ a {
 
 li a {
   margin-right: 2em;
-}
-
-li.selected {
-  border-bottom: solid black 2px;
 }
 
 h1 {
