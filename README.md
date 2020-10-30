@@ -6,3 +6,7 @@ This project displays the core functionality of using Barba JS wiht gsap animati
 
 * [Barba JS](https://barba.js.org/)
 * [gsap](https://greensock.com/gsap/)
+
+## See It Live
+
+[https://seanpierce.github.io/barba-example/](https://seanpierce.github.io/barba-example/)
